@@ -1,4 +1,5 @@
 # MadlibGenerator Explaination :- https://chat.openai.com/share/2d892668-a72b-4628-b4e7-ca5dd9a106b0
+## USE Story.txt
 
 # Opening .txt file - Using with file closes automatically.
 with open('Story.txt', 'r') as file:
